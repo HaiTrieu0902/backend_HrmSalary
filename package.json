@@ -20,7 +20,7 @@
     "js-cookies": "^1.0.4",
     "jsonwebtoken": "^9.0.1",
     "mongodb": "^5.7.0",
-    "mongoose": "^7.3.2"
+    "mongoose": "^5.13.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
